@@ -1,0 +1,42 @@
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe.config
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.pdb
+E:\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.csprojResolveAssemblyReference.cache
+E:\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.MainForm.resources
+E:\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.Properties.Resources.resources
+E:\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.csproj.GenerateResource.Cache
+E:\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.exe
+E:\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.pdb
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.dll
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.Drawing.dll
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.pdb
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.Drawing.pdb
+E:\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe.config
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.exe
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.pdb
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.pdb
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.csprojResolveAssemblyReference.cache
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.MainForm.resources
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.Properties.Resources.resources
+C:\Users\Trang Vo\Documents\Visual Studio 2013\Projects\LTDT\TSP_Demo1\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.csproj.GenerateResource.Cache
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2016_HK1\[LTDT]_Project\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe.config
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2016_HK1\[LTDT]_Project\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.exe
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2016_HK1\[LTDT]_Project\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.pdb
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe.config
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.exe
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.pdb
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.exe
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\TSP_Demo1.pdb
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.pdb
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.csprojResolveAssemblyReference.cache
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.MainForm.resources
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.Properties.Resources.resources
+D:\[NTA]_Study\01_HCMUS\01b_LyThuyetDoThi\2017\[LTDT]_Seminar\[LTDT]_Demo\TSP_Demo1\TSP_Demo1\obj\Debug\TSP_Demo1.csproj.GenerateResource.Cache
